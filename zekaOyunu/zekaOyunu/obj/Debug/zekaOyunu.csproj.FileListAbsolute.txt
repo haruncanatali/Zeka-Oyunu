@@ -1,0 +1,19 @@
+E:\c# depo\zekaOyunu\zekaOyunu\bin\Debug\zekaOyunu.exe.config
+E:\c# depo\zekaOyunu\zekaOyunu\bin\Debug\zekaOyunu.exe
+E:\c# depo\zekaOyunu\zekaOyunu\bin\Debug\zekaOyunu.pdb
+E:\c# depo\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.csprojAssemblyReference.cache
+E:\c# depo\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.Properties.Resources.resources
+E:\c# depo\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.csproj.GenerateResource.cache
+E:\c# depo\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.exe
+E:\c# depo\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.pdb
+E:\c# depo\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.Form1.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\bin\Debug\zekaOyunu.exe.config
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\bin\Debug\zekaOyunu.exe
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\bin\Debug\zekaOyunu.pdb
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.csprojAssemblyReference.cache
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.Form1.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.Properties.Resources.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.csproj.GenerateResource.cache
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.exe
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.pdb
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 4\zekaOyunu\zekaOyunu\obj\Debug\zekaOyunu.csproj.CoreCompileInputs.cache
